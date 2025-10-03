@@ -6,4 +6,5 @@ We are BEATWAY. At BEATWAY, we are working on building an AI-powered analytics p
 # Installation
 (WIP)
 # Tools and Resources
+PostgreSQL, Python, Apache
 Techno Music Events Database, "Göksel Turan - AI Powered Techno Music Event Recommendations: A User-Centric Hybrid Approach (2025)"
